@@ -32,6 +32,7 @@ Revert to old commit and push it to head
     $git push -f heroku master
 [Revert to old commit](
 http://stackoverflow.com/questions/4114095/revert-to-a-previous-git-commit)
+
     $ git checkout -b old-state 0d1d7fc32
 [Delete pushed ignore file](
 http://stackoverflow.com/questions/1139762/ignore-files-that-have-already-been-committed-to-a-git-repository)
