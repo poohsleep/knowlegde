@@ -99,3 +99,8 @@ Alias
 Default push
 
     $git config --global push.default simple
+
+Delete a file from working tree, then commit the deletion
+    
+    $ git commit -a -m "A file was deleted"
+    $ git push
