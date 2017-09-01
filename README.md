@@ -104,3 +104,12 @@ Delete a file from working tree, then commit the deletion
     
     $ git commit -a -m "A file was deleted"
     $ git push
+
+Clean local branch after branch got merged in remote
+
+    $ git branch -a
+    $ git remote prune origin
+    $ git branch -a
+    $ git checkout master
+    $ git pull
+    $ git branch -d <branchname>
