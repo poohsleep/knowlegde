@@ -1,0 +1,200 @@
+Interview Preparation
+
+Coding Interview University
+https://github.com/jwasham/coding-interview-university
+
+Complete guide google interview preparation
+http://blog.gainlo.co/index.php/2017/02/18/chapter-1-get-interview-google-complete-guide-google-inte...
+
+The tech interview preparation
+https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+
+How to prepare to be google SW 
+https://www.quora.com/How-can-I-prepare-myself-to-be-a-software-engineer-at-Google
+https://careers.google.com/how-we-hire/interview/#interviews-for-software-engineering-and-technical-...
+
+SE Preparation
+https://github.com/orrsella/soft-eng-interview-prep/blob/master/README.md
+
+Courses for learning Computer Science
+https://github.com/prakhar1989/awesome-courses
+
+Common SW Q&A 
+https://www.google.co.jp/amp/s/www.paysa.com/blog/2017/05/23/33-common-software-engineering-intervie...
+
+Full stack
+https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers
+
+Resume
+http://www.bestsampleresume.com/examples/engineering/google-software-engineer.html
+https://www.livecareer.com/resumes/objectives/software-engineer-resume-objective
+
+Email template
+https://www.hubspot.com/sales/follow-up-email-after-interview
+
+Google SRE
+https://www.keypressure.com/blog/how-i-failed-a-google-sre-interview/
+
+Case interview
+http://caseinterview.customerhub.net/videos
+
+Gaishi Firms
+https://www.onecareer.jp/articles/428
+
+CS Lists (Must read!)
+https://teachyourselfcs.com/
+
+* Hours required: 300 hours 
+* Mon-Fri: 1.5-3.5 hours / day (7.5-17.5) / week
+* Sat-Sun: 3.5 - 8 hours /day (7-16) / week
+* 1 Week : 14.5-33.5 hours
+* Days required:  300/33.5*7 = 62 days ~ 300/14.5 * 7 = 140 days (62 ~140 days)  or (9 weeks ~  20 weeks) or (2.25 months - 5 months)
+* Start: 12/15
+* End: 2/28 ~ 4/30
+
+CS Fundamentals
+* CS fundamentals (20 hours)
+- [ ] (Video CS162 2010) Operating Systems and Systems Programming https://www.youtube.com/playlist?list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws
+- [ ] (Video CS162 2015) Operating Systems and Systems Programming http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-spring2015-berkeley.... (20 hours)
+- [ ] (Video CS61A 2015) The Structure and Interpretation of Computer Programs http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61a-spring2015-berkeley....
+- [ ] (Video CS61B 2015) Data Structures and Advanced Programming http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61b-spring2015-berkeley....
+- [ ] (Video CS61C 2015) Machine Structures http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley....
+- [ ] (Video CS164 2012) Programming Languages and Compiler Design http://www.infocobuild.com/education/audio-video-courses/computer-science/cs164-spring2012-berkeley....
+
+* Storage (5 hours)
+- [ ] (Text) http://ascii.jp/elem/000/000/462/462912/ (3 hours)
+- [ ] (Text) (RAID) http://buffalo.jp/products/catalog/storage/raid/ (2 hours)
+
+* Network (20 hours)
+- [ ] (Text) (General network knowledge)  http://study-ccna.com/what-is-a-network/ (3 hours)
+- [ ] (TCP/IP and the OSI Model Explained) https://www.youtube.com/watch?v=e5DEVa9eSN0 (40 minutes)
+- [ ] (Text) http://www.geeksforgeeks.org/computer-network-tutorials/ (3 hours)
+- [ ] (Text) (Subnet mask) https://www.cman.jp/network/term/subnet/p3/ (30 minutes)
+- [ ] (Text) (Subnet) https://www.youtube.com/watch?v=t5xYI0jzOf4 (30 minutes)
+- [ ] (Video) (How the internet works) https://www.khanacademy.org/computing/computer-science/internet-intro (40 minutes)
+- [ ] (Video) (Packet Transmission across the Internet) https://www.youtube.com/watch?v=nomyRJehhnM (12 minutes)
+- [ ] (Video) (Http) https://www.youtube.com/watch?v=WGJrLqtX7As (30 minutes)
+- [ ] (Video) (SSL and HTTPS) https://www.youtube.com/watch?v=S2iBR2ZlZf0 (1hour 20 minutes)
+- [ ] (Video) (SSL/TSL) https://www.youtube.com/watch?v=Rp3iZUvXWlM  (30 minutes)
+- [ ] (Text) (Routing) http://ascii.jp/elem/000/000/579/579855/ (3 hours)
+- [ ] (Text) (ネットワークの禁忌に触れる) http://ascii.jp/elem/000/000/561/561917/ (3 hours)
+- [ ] (Text) (基礎から学ぶネットワーク構築) http://ascii.jp/elem/000/000/412/412485/ (1 hour)
+- [ ] (Text) (ネットワークがクイズでわかる) http://ascii.jp/elem/000/000/619/619743/ (2 hours)
+- [ ] (Text) (IP addresses, subnet mask, default gateway) https://www.networkcomputing.com/network-security/ip-addresses-subnet-masks-and-default-gateways/183... (20 minutes)
+- [ ] (Text and Video) https://github.com/jwasham/coding-interview-university#networking (Covered by above)
+- [ ] http://www.fwoabw.info/entry/2015/01/15/171701
+- [ ] http://blog.csdn.net/techradio/article/details/7606782
+
+* Database (20 hours)
+- [ ] (Text) (Basic MySQL) http://www.mysqltutorial.org/basic-mysql- (6 hours)
+- [ ] (Text) (MySQL advanced, DBA) http://www.mysqltutorial.org/mysql-stored-procedure-tutorial.aspx (6 hours)
+- [ ] (Text) (SQL) https://www.tutorialspoint.com/sql/index.htm (4 hours)
+- [ ] (In memory) 
+- [ ] (Text) (Sharding) https://enterprisezine.jp/dbonline/detail/9031, http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the...
+- [ ] (Text) (ACID) https://www.geeksforgeeks.org/acid-properties-in-dbms/
+
+* Linux, command (12 hours)
+- [ ] (Text) (Linux, Regex, Bash script, Binary, Boolean algebra) https://ryanstutorials.net/  (4 hours)
+- [ ] (Text) (sar) http://naoberry.com/tech/sar/ (1 hour)
+- [ ] (Text) (top) https://qiita.com/k0kubun/items/7368c323d90f24a00c2f (30 minutes)
+- [ ] (Text) (load average) https://qiita.com/k0kubun/items/8ab1dfa7c0359d8e618d (30 minutes)
+- [ ] (Text) (50 Commands) http://www.thegeekstuff.com/2010/11/50-linux-commands/ (2 hours)
+- [ ] (Text) (Bash shell scripting) https://en.wikibooks.org/wiki/Bash_Shell_Scripting (3 hours)
+- [ ] (Text) (Bash scripting cheatsheet) https://devhints.io/bash   (30 minutes)
+- [ ] (Text) (VIM) https://devhints.io/vim (30 minutes)
+- [ ] (Text) (Find) https://www.geeksforgeeks.org/find-command-in-linux-with-examples/
+
+* OS (5 hours)
+- [ ] (Text) http://www.geeksforgeeks.org/operating-systems/
+- [ ] (Text) https://github.com/orrsella/soft-eng-interview-prep/blob/master/topics/operating-systems.md
+
+* Security (2 hours)
+- [ ] (Text) http://ascii.jp/elem/000/000/447/447614/
+
+* Cloud (3 hours)
+- [ ] (Text) https://www.tutorialspoint.com/cloud_computing/index.htm
+
+* Web tech and other (10 hours)
+- [ ] (Video) (AI) https://classroom.udacity.com/courses/cs271
+
+Algorithmic complexity / Big-O / Asymptotic analysis (4 hours)
+- [ ] (Text) https://github.com/jwasham/coding-interview-university#algorithmic-complexity--big-o--asymptotic-ana...
+- [ ] (Text) https://github.com/orrsella/soft-eng-interview-prep/blob/master/topics/complexity.md
+- [ ] (Text) http://bigocheatsheet.com/
+
+Data structure (40 hours)
+- [ ] (Text) http://www.geeksforgeeks.org/data-structures/
+- [ ] (Text) http://discuss.codechef.com/questions/48877/data-structures-and-algorithms
+- [ ] (Video) https://www.youtube.com/user/mycodeschool/playlists
+- [ ] (Video) https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algor...
+- [ ] (Text) https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+- [ ] (Book) Elements of Programming Interviews The Insider's Guide 2nd Edition 2015
+
+Algorithms (40 hours)
+- [ ] (Text) http://www.geeksforgeeks.org/fundamentals-of-algorithms/ 
+- [ ] (Video) https://www.coursera.org/learn/algorithmic-thinking-1
+- [ ] (Video) https://www.coursera.org/learn/algorithms-part1
+- [ ] (Video) https://www.coursera.org/learn/algorithms-part2
+- [ ] (Text) https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+- [ ] (Text) (Bit manipulation) https://www.hackerearth.com/ja/practice/notes/bit-manipulation/
+- [ ] (Text) https://www.khanacademy.org/computing/computer-science/algorithms
+- [ ] (Book) Elements of Programming Interviews The Insider's Guide 2nd Edition 2015
+- [ ] (video) https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algori...
+
+Mathematics for Computer Science (30 hours)
+- [ ] (Video) https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-compu...
+- [ ] (Video) https://app.pluralsight.com/library/courses/math-for-programmers/table-of-contents
+
+Programming language (10 hours)
+- [ ] (Ref) http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+- [ ] (Text) (C Programming notes) https://www.eskimo.com/~scs/cclass/int/top.html
+- [ ] (Video) (Pointers in C/C++ ) https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_
+- [ ] C++ primer
+- [ ] Effective C++
+- [ ] More Effective C++
+- [ ] Exceptional C++
+- [ ] More Exceptional C++
+- [ ] Exceptional C++ Style
+- [ ] C++ Coding Standards
+- [ ] C++ Templates: The Complete Guide
+- [ ] Effective Modern C++
+- [ ] Modern C++ Design
+- [ ] (C++) interview questions https://www.tutorialspoint.com/cplusplus/cpp_interview_questions.htm
+
+System Architecture, System Design, Scalability, Data Handling (10 hours)
+- [ ] (Text) https://github.com/orrsella/soft-eng-interview-prep/blob/master/topics/system-architecture.md
+- [ ] (Text) https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling
+- [ ] (Text) https://www.hiredintech.com/system-design/
+
+Object-Oriented Programming
+- [ ] (Text) http://www.oodesign.com/
+
+Final review (20 hours)
+- [ ] (Text and Video) https://github.com/jwasham/coding-interview-university#final-review
+
+Coding practice (30 - 50 hours)
+- [ ] http://www.codechef.com/
+- [ ] http://www.geeksforgeeks.org
+- [ ] https://codility.com
+- [ ] https://oj.leetcode.com
+- [ ] http://www.spoj.com/problems/classical/sort=0,start=0
+- [ ] https://www.topcoder.com
+- [ ] https://www.hackerrank.com/back2school14
+- [ ] https://projecteuler.net/problems
+- [ ] https://www.hackerrank.com/dashboard
+- [ ] https://www.interviewbit.com/dashboard/
+- [ ] (Text) How to design problems http://www.htdp.org/2018-01-06/Book/index.html
+
+Interview questions (20 hours)
+- [ ] (Text) https://www.edureka.co/blog/interview-questions/
+
+Resume (3 hours)
+- [ ] (Text) https://github.com/jwasham/coding-interview-university#your-resume
+
+During interview
+- [ ] (Text) https://github.com/jwasham/coding-interview-university#have-questions-for-the-interviewer
+
+Case interview
+- [ ] https://igotanoffer.com/blogs/mckinsey-case-interview-blog/115672708-mckinsey-case-interview-prepara...
+- [ ] https://mconsultingprep.com/mckinsey-case-interview/
+- [ ] http://caseinterview.customerhub.net/videos
